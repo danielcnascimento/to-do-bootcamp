@@ -48,12 +48,12 @@ Tecnologias que foram exploradas:
 - [JSON Server](https://www.npmjs.com/package/json-server)
 
 <h2 id="funcionalidades" > ✅ Ações - functionalities </h2>
+
 To-do possui atualmente as seguintes funcionalidades:
 
-<br />
-1. Adiciona tarefa. `Add a Task.`
-2. Concluir uma tarefa. `Finish a Task.`
-3. Excluir uma tarefa. `Delete a Task.`
+- Adiciona tarefa. `Add a Task.`
+- Concluir uma tarefa. `Finish a Task.`
+- Excluir uma tarefa. `Delete a Task.`
 
 ### Propóstas recomendadas: `Future feature recomended.`
 1. Priorizar tarefa. `Prioritize tasks with points.`
